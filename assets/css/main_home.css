@@ -1,0 +1,15 @@
+.pascal {
+    padding: 10px;
+    margin: inherit;
+    text-align: center;
+    position: unset;
+}
+.pascal_span {
+    background: #6a2dfdc7;
+    display: block;
+    width: 46px;
+    height: 25px;
+    border-radius: 34%;
+    box-shadow: 0 0 0 rgba(244,121,50,0.75);
+    animation: BadgePulseBlue 1.8s infinite;
+}
